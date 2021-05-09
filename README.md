@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArturWagnerBusiness
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning react
+- 📫 How to reach me contact (Will add some time later)
