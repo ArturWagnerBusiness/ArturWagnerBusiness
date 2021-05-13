@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning react
 - 📫 How to reach me contact (It should be on the CV I send)
 
-### More Information on my website
-### [arturwagnerbusiness.github.io](https://arturwagnerbusiness.github.io)
+# More Information on my website
+### > [arturwagnerbusiness.github.io](https://arturwagnerbusiness.github.io)
