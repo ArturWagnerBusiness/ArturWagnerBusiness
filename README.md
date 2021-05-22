@@ -1,5 +1,5 @@
 # Hello and welcome to my github profile!
-- 👋 I’m @ArturWagnerBusiness
+- 👋 I’m Artur Wagner
 - 🎓 Currently studying Computer Science in Kingston University (3rd year now)
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning react
