@@ -3,7 +3,7 @@
 - 👋 I’m Artur Wagner.
 - 🎓 Currently studying Computer Science in Kingston University (3rd year now).
 - 👀 Would classify myself as a web developer.
-- 📫 How to reach me, contact arturwagner@yahoo.com or (+44) 07467125666.
+- 📫 How to reach me, contact arturwagner@yahoo.com.
 
 ### Personal Website [cv.arturwagner.co.uk](https://cv.arturwagner.co.uk)
 
