@@ -11,11 +11,12 @@ You should find _most projects_ and an _about me_ there.
 
 # Interesting Index
 
-| _Websites_                       |                          _Visit_                          |                                   _Source_                                   |                                         _Technologies_                                          |
-| :------------------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
-| Portfolio website 2021 (current) |      [Link](https://arturwagnerbusiness.github.io/)       | [Link](https://github.com/ArturWagnerBusiness/arturwagnerbusiness.github.io) | `React` `JavaScript` `TypeScript` `Node` `Material-UI` `Sass` `Animate on Scroll` `Materialize` |
-| Personal website 2020            | [Link](https://arturwagnerbusiness.github.io/2020source/) |          [Link](https://github.com/ArturWagnerBusiness/2020source)           |                                    `Javascript` `Css` `Html`                                    |
-| Website clone 2018/2019          | [Link](https://arturwagnerbusiness.github.io/2018source/) |          [Link](https://github.com/ArturWagnerBusiness/2018source)           |                                    `Javascript` `Css` `Html`                                    |
+| _Websites_                       |                          _Visit_                          |                                   _Source_                                   |                                                           _Technologies_                                                            |
+| :------------------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| Final Year Project 2021-2022     |                          OFFLINE                          |          [Link](https://github.com/ArturWagnerBusiness/FYP_21-22)            | `React` `JavaScript` `TypeScript` `Node` `Material-UI` `Axios` `Universal-cookie` `Express.js` `MySQL` `JsonWebToken` `GoogleApis`  |
+| Portfolio website 2021 (current) |      [Link](https://arturwagnerbusiness.github.io/)       | [Link](https://github.com/ArturWagnerBusiness/arturwagnerbusiness.github.io) |                   `React` `JavaScript` `TypeScript` `Node` `Material-UI` `Sass` `Animate on Scroll` `Materialize`                   |
+| Personal website 2020            | [Link](https://arturwagnerbusiness.github.io/2020source/) |          [Link](https://github.com/ArturWagnerBusiness/2020source)           |                                                      `Javascript` `Css` `Html`                                                      |
+| Website clone 2018-2019          | [Link](https://arturwagnerbusiness.github.io/2018source/) |          [Link](https://github.com/ArturWagnerBusiness/2018source)           |                                                      `Javascript` `Css` `Html`                                                      |
 
 | _Games_                         |                                            _Play_                                            |                            _Source_                            |                 _Technologies_                  |
 | :------------------------------ | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :---------------------------------------------: |
@@ -29,4 +30,4 @@ You should find _most projects_ and an _about me_ there.
 
 | _Old code repositories_               |                           _Repository_                            | _Technologies_ |
 | :------------------------------------ | :---------------------------------------------------------------: | :------------: |
-| Repository of projects from 2018/2020 | [Link](https://github.com/ArturWagnerBusiness/Projects-2018-2020) |    `Random`    |
+| Repository of projects from 2018-2020 | [Link](https://github.com/ArturWagnerBusiness/Projects-2018-2020) |    `Random`    |
