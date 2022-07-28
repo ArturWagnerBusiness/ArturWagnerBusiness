@@ -1,7 +1,7 @@
 # Hello and welcome to my github profile!
 
 - 👋 I’m Artur Wagner.
-- 🎓 Currently studying Computer Science in Kingston University (3rd year now).
+- 🎓 A Graduate in Computer Sciencein from Kingston University (Grade: 1st Honor).
 - 👀 Would classify myself as a web developer.
 - 📫 How to reach me, contact arturwagner@yahoo.com.
 
