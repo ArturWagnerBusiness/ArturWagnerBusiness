@@ -1,8 +1,8 @@
-# Hello and welcome to my github profile!
+# Welcome to my GitHub profile!
 
 - 👋 I’m Artur Wagner.
-- 🎓 A Graduate in Computer Sciencein from Kingston University (Grade: 1st Honor).
-- 👀 Would classify myself as a web developer.
+- 🎓 A Computer Science Graduate from Kingston University (Grade: 1st Honor).
+- 👀 Most proficient in software and web developement.
 - 📫 How to reach me, contact arturwagner@yahoo.com.
 
 ### Personal Website [cv.arturwagner.co.uk](https://cv.arturwagner.co.uk)
