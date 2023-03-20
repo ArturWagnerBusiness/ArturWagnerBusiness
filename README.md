@@ -6,7 +6,7 @@
 - 🐧 Full time Arch user since 2022! (Well, Manjaro to be more precise...)
 - 📫 How to reach me, contact arturwagner@yahoo.com.
 
-### Personal Website [cv.arturwagner.co.uk](https://cv.arturwagner.co.uk)
+### Personal Website [arturwagner.co.uk](https://arturwagner.co.uk)
 
 You should find _most projects_ and an _about me_ there.
 
