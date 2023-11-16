@@ -1,11 +1,12 @@
 # Welcome to my GitHub profile!
 
 - 👋 I’m Artur Wagner.
-- 🎓 A Computer Science Graduate from Kingston University (Grade: 1st Honor).
-- 🎓 Awaiting my Masters now! (Grade: TBA).
-- 👀 Most proficient in software and web developement.
+- 🎓 A Computer Science Graduate from Kingston University (1st Honor \[+70%\]).
+- 🥇 Followed with Masters of Science degree! (Distinction \[+70%\]).
+- 👀 Software and Web developement right to the core!
 - 🐧 Full time Arch user since 2022! (Well, Manjaro to be more precise...)
-- 📫 How to reach me, contact arturwagner@yahoo.com.
+- 📫 How to reach me, contact [arturwagner@yahoo.com](mailto:arturwagner@yahoo.com).
+- 🔥 [#FOSS](https://itsfoss.com/what-is-foss/) [#ARCH](https://archlinux.org/) [#KVM](https://www.redhat.com/en/topics/virtualization/what-is-KVM/) [#JS](https://developer.mozilla.org/en-US/docs/Web/javascript/) [#PRIVACY](https://www.privacyguides.org/en/)
 
 Personal Website v2023 [arturwagner.co.uk](https://arturwagner.co.uk) <- Just click it! 
 
